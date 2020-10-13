@@ -127,8 +127,9 @@ $ cd admin & yarn install & yarn build
   }
 }
 ```
+* Copy Firebase Config from `Firebase -> Project Settings -> Tab General -> Under Your App` and edit file `src/configs/index.js` 
 
-*Final step: Deploy your package to firesbase hosting
+* Final step: Deploy your package to firesbase hosting
 ```sh
 $ firebase deploy
 ```
@@ -164,7 +165,10 @@ $ firebase deploy --only functions
 ```sh
 ✔  Deploy complete!
 ```
+
 ## !!! --- ANDROID --- !!!
 - Change Package Id
+- Change Google Admob ID (ADMOB_ID) in `app/build.gradle`
+- Change Onesignal Id (onesignal_app_id) in `app/build.gradle`
 - Download google-service.json from Firebase 
 
