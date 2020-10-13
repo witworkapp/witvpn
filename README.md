@@ -30,7 +30,7 @@ When installing a VPN, I need you to prepare the following:
 * [Onesginal] 
 ## !!! --- SERVER --- !!!
 `**Note: We recommend that you use Google VM Instance or AWS EC2`
-#### Install OpenVPN Server:
+#### ► Install OpenVPN Server:
 - Upgrade `apt`
 ```sh
 $ sudo apt-get update
@@ -52,7 +52,7 @@ $ sudo ./openvpn.sh
 $ sudo service openvpn start
 ```
 Make  sure OpenVPN service is running
-#### Create OpenVPN User:
+#### ► Create OpenVPN User:
 - Show menu 
 ```sh
 $ sudo ./openvpn.sh
@@ -78,7 +78,7 @@ Name: withworkvpn
 
 ## !!! --- FIREBASE --- !!!
 *** Setup Firebase CLI for deploy CMS Admin. See [Document](https://firebase.google.com/docs/cli)
-#### Setup CMS Admin
+#### ► Setup CMS Admin
 * Go to the `admin` directory and install firebase cli
 * Init Firebase `hosting`
 ```sh
@@ -141,13 +141,13 @@ Project Console: https://console.firebase.google.com/project/wit-vpn/overview
 Hosting URL: https://wit-vpn.****
 ```
 `Note: Note that when you build using node version 12.10.0, you can customize the node version using nvm`
-#### NVM Install: [Document](https://github.com/nvm-sh/nvm) 
+#### ► NVM Install: [Document](https://github.com/nvm-sh/nvm) 
 1. curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.36.0/install.sh | bash
 2. command -v nvm
 3. nvm install node
 4. nvm use node 12.10.0
 
-#### Cloud Function For Admin:
+#### ► Cloud Function For Admin:
 1. Remove User
 2. Edit User
 
