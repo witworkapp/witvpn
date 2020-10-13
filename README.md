@@ -31,6 +31,7 @@ When installing a VPN, I need you to prepare the following:
 ## !!! --- SERVER --- !!!
 `**Note: We recommend that you use Google VM Instance or AWS EC2`
 #### ► Install OpenVPN Server:
+##### Copy file `openvpn.sh` from `server` folder and upload to your server
 - Upgrade `apt`
 ```sh
 $ sudo apt-get update
