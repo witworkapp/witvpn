@@ -161,7 +161,7 @@ $ firebase init functions
 ```sh
 $ firebase deploy --only functions
 ```
-* Kết quả
+* Final
 ```sh
 ✔  Deploy complete!
 ```
