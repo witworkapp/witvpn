@@ -1,10 +1,15 @@
 # Why you should install WitVPN now:
 
 ► Unblock Websites and Apps
+
 ► Unlimited access, 500+ fast proxy servers
+
 ► Secure Your Device anywhere
+
 ► Surf anonymously at Fast Speed & stably
+
 ► Shield WiFi Hotspot and Privacy Protection
+
 
 WitVPN free version shows ads. Upgrade to premium to enjoy unlimited and ad-free VPN!
 
