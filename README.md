@@ -1,4 +1,4 @@
-<a href="https://play.google.com/store/apps/details?id=org.wikiedufoundation.wikiedudashboard.release"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=60px /></a>
+<a href="https://play.google.com/store/apps/details?id=app.witwork.vpn"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=60px /></a>
 
 # Why you should install WitVPN now:
 
