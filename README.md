@@ -20,4 +20,4 @@ If you have any questions or suggestions, feel free to reach us on hello@witwork
 
 By the way, don’t forget to follow our Facebook https://www.facebook.com/witworkapp to stay tuned.
 
-![play-store-button](https://cloud.githubusercontent.com/assets/5692567/10923351/6b688a92-8278-11e5-9973-8ffbf3c5cc52.png)
+![play-store-button](https://play.google.com/store/apps/details?id=app.witwork.vpn)
